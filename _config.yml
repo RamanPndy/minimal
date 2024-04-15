@@ -1,6 +1,16 @@
-title: Minimal theme
+title: <p align="center"> Raman Pandey </p>
 logo: /assets/img/logo.png
-description: Minimal is a theme for GitHub Pages.
-show_downloads: true
-google_analytics:
+
+description:
+  <p align="center">
+  <a href="https://www.linkedin.com/in/raman-pandey-70408b66/">LinkedIn</a> |
+  <a href="https://github.com/RamanPndy">GitHub</a>
+  
+  <br>   
+  I'm working as Senior Software Engineer at BookMyShow
+  <br>
+  </p>
+
+
+
 theme: jekyll-theme-minimal
